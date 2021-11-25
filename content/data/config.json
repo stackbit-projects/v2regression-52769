@@ -14,13 +14,6 @@
         "primaryLinks": [],
         "secondaryLinks": [
             {
-                "type": "Link",
-                "label": "Hoddddddd",
-                "url": "/",
-                "altText": "Home",
-                "style": "link"
-            },
-            {
                 "label": "Work\\\\\\\\\\",
                 "altText": "Work",
                 "url": "/portfolio",
@@ -30,6 +23,13 @@
                 "style": "link",
                 "elementId": "",
                 "type": "Link"
+            },
+            {
+                "type": "Link",
+                "label": "Hoddddddd",
+                "url": "/",
+                "altText": "Home",
+                "style": "link"
             },
             {
                 "url": "/blog",
